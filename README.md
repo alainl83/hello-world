@@ -1,2 +1,4 @@
 # hello-world
-For testing GitHub
+Salut tout le monde
+Bon, testons un petit peu ça...
+:)
